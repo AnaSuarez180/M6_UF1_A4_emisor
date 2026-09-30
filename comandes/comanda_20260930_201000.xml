@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<comandes>
+  <comanda id="1790791800">
+    <client>
+      <nom>Jackeline Febres</nom>
+      <adreca>C. De la Font 8, Pals</adreca>
+    </client>
+    <producte>
+      <id>P002</id>
+      <descripcio>Ratón inalámbrico</descripcio>
+      <quantitat>3</quantitat>
+      <preu>18.9</preu>
+    </producte>
+  </comanda>
+</comandes>

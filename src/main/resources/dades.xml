@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dades>
+  <clients>
+    <client id="C1">
+      <nom>Qi Xiaoli</nom>
+      <adreca>Av. Proceres 6, Callao</adreca>
+    </client>
+    <client id="C2">
+      <nom>Jackeline Febres</nom>
+      <adreca>C. De la Font 8, Pals</adreca>
+    </client>
+  </clients>
+  <productes>
+    <producte id="P001">
+      <descripcio>Teclado mecanico switches azules</descripcio>
+      <preu>35.50</preu>
+    </producte>
+    <producte id="P002">
+      <descripcio>Ratón inalámbrico</descripcio>
+      <preu>18.90</preu>
+    </producte>
+  </productes>
+</dades>

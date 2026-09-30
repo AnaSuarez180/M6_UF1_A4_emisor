@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<comandes>
+  <comanda id="1790711999">
+    <client>
+      <nom>Qi Xiaoli</nom>
+      <adreca>Av. Proceres 6, Callao</adreca>
+    </client>
+    <producte>
+      <id>P001</id>
+      <descripcio>Teclado mecanico switches azules</descripcio>
+      <quantitat>2</quantitat>
+      <preu>35.5</preu>
+    </producte>
+  </comanda>
+</comandes>
